@@ -5,7 +5,6 @@ This Website build using:
 - PHP as backend
 <br>
 <strong>Status: Fully develop </strong>
-<br><br>
-Access this website through this link http://uangku.infinityfree.com/
+<strong><a href="https://www.youtube.com/watch?v=tg84iilZ9Xo"><h3 align="center">Play uangKu demo</h3></a></strong>
 <br><br>
 For database file: E-mail me at diyastrikhotimatulhuda@gmail.com
