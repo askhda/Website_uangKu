@@ -6,6 +6,6 @@ This Website build using:
 <br>
 <strong>Status: Fully develop </strong>
 <br>
-<strong><a href="https://www.youtube.com/watch?v=tg84iilZ9Xo">Play uangKu demo</a></strong>
+<strong><a href="https://youtu.be/PNYypx7kt-s">Play uangKu demo</a></strong>
 <br><br>
 For database file: E-mail me at diyastrikhotimatulhuda@gmail.com
