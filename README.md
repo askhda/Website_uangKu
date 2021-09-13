@@ -7,3 +7,5 @@ This Website build using:
 <strong>Status: Fully develop </strong>
 <br><br>
 Access this website through this link http://uangku.infinityfree.com/
+<br><br>
+For database file: E-mail me at diyastrikhotimatulhuda@gmail.com
