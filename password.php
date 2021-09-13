@@ -91,7 +91,7 @@
             </span>
             <br>
             <span class="roboto biru_tua">Tidak punya akun?
-              <a class="roboto biru_tua fw-bold" style="text-decoration: none;" href="#">Daftar</a>
+              <a class="roboto biru_tua fw-bold" style="text-decoration: none;" href="daftar.php">Daftar</a>
             </span>
           </div>
         </div>
